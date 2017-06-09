@@ -50,7 +50,7 @@ It is a map with key of all parts
 the value is List<List<Map.Entry<String, Integer>>>, representing a list of 1-word, 2-words, 3-words'  "word-count"
 entry.
 
-DESSIGN:
+DESIGN:
 ---------------------------------------------------------------------------------------------------
 
 Outputs:
